@@ -1,4 +1,3 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://github.com/ZulfiqarG)
 <h1 align="center">Hi 👋, I'm Zulfiqar Shaikh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/55c6e4cd64d3d686feb10983ca3024195d9a749a6eeb690355e78aebed4bd4f5/68747470733a2f2f692e6962622e636f2f3456574c5356682f34363230372d70726f6772616d6d65722d312e676966">
