@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/55c6e4cd64d3d686feb10983ca3024195d9a749a6eeb690355e78aebed4bd4f5/68747470733a2f2f692e6962622e636f2f3456574c5356682f34363230372d70726f6772616d6d65722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfiqarg&label=Profile%20views&color=0e75b6&style=flat" alt="zulfiqarg" /> </p>
-<p align="left"> <a href="https://twitter.com/praveen52" target="blank"><img src="https://img.shields.io/twitter/follow/ZulfiqarSk66?logo=twitter&style=for-the-badge" alt="praveen52" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ZulfiqarSk66" target="blank"><img src="https://img.shields.io/twitter/follow/ZulfiqarSk66?logo=twitter&style=for-the-badge" alt="praveen52" /></a> </p>
 
 - 🌱 I’m currently learning **React js , Experss Js**
 
